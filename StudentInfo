@@ -1,0 +1,11 @@
+,studentid,firstName,LastName,Age,Gender,PhoneNumber,Average,Grade
+0,101,Jacobson,Koryele,23,Male,08073528362,50.0,C
+1,102,Mark,Henry,45,Male,08035464631,55.56,C
+2,103,Blue,Kamsi,22,Female,08163524522,61.11,B
+3,104,Chris,Sam,24,Male,08066124320,66.67,B
+4,105,Kamanu,Timothy,34,Male,07032567211,72.22,A
+5,106,Victoria,Jay,21,Female,07033217890,77.78,A
+6,107,Flora,Jay,32,Female,08031216542,83.33,A
+7,108,Divine,Philip,29,Female,0903321344,88.89,A
+8,109,Remi,Oluwa,65,Female,08189765432,94.44,A
+9,110,Jefferey,Babetunde,31,Male,0808543231,100.0,A
